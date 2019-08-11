@@ -1,5 +1,7 @@
 # 黑马旅游网
 
+> 用户注册 登陆 退出 收藏  搜索 
+
 ![](./img/login_favorite2.gif)
 
 ## 技能点
@@ -12,10 +14,14 @@
   * [BeanUtils](#BeanUtils) : 数据封装
   * [Jackson](#Jackson): 序列化json工具 
 * **service层**
+  * Javamail：java发送邮件工具
+  * Redis：nosql内存数据库
+  * Jedis：java的redis客户端
+
 * **Dao层**
   * [JdbcTemplate](#JdbcTemplate) : jdbc的工具
   * Mysql：数据库
-  *  Druid：数据库连接池
+  * Druid：数据库连接池
 
 ### Servlet
 
