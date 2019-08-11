@@ -1,5 +1,7 @@
 # 黑马旅游网
 
+![](./img/login_favorite2.gif)
+
 ## 技能点
 
 * **前端**
